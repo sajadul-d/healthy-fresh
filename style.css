@@ -1,0 +1,33 @@
+*{
+  font-family: 'Roboto Condensed', sans-serif;
+  margin: 0;
+}
+
+.flex-container{
+  display: flex;
+}
+.half-width{
+  width: 50%;
+  margin-left: 5%;
+  margin-top: 50px;
+}
+
+.half-width img{
+  width: 70%;
+}
+h1{
+  width: 235px;   
+}
+.pera{
+  margin-top: 20px;
+  padding: 10px;
+}
+.btn{
+  margin-top: 15px;
+  margin-left: 8px;
+  border: none;
+  padding: 12px;
+  background-image: linear-gradient(rgb(218, 152, 18), rgb(149, 41, 41));
+  border-radius: 15px;
+  color: white;
+}
